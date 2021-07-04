@@ -7,8 +7,8 @@ function App() {
   return (
     <BrowserRouter>
       <Switch>
-        <Route exact path="/" component={HomePage} />
-        <Route exact path="/:url_id" component={UserDetail} />
+        <Route exact path="/totalCloud" component={HomePage} />
+        <Route exact path="/totalCloud/:url_id" component={UserDetail} />
       </Switch>
     </BrowserRouter>
   );

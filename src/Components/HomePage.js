@@ -13,7 +13,7 @@ import { FadeTransform } from "react-animation-components";
 import ArrowDropDownIcon from "@material-ui/icons/ArrowDropDown";
 
 function HomePage(props) {
-  
+
   const history = useHistory();
   const [show, setShow] = useState("");
 
@@ -22,7 +22,7 @@ function HomePage(props) {
   }, []);
 
   const handleClick = (id) => {
-    history.push(`/${id}`);
+    history.push(`/totalCloud/${id}`);
   };
 
   const handleClickDropdown = (event) => {
