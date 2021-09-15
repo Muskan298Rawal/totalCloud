@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/totalCloud/static/css/main.fd014215.chunk.css",
-    "main.js": "/totalCloud/static/js/main.6b78175d.chunk.js",
-    "main.js.map": "/totalCloud/static/js/main.6b78175d.chunk.js.map",
+    "main.js": "/totalCloud/static/js/main.e2a89812.chunk.js",
+    "main.js.map": "/totalCloud/static/js/main.e2a89812.chunk.js.map",
     "runtime-main.js": "/totalCloud/static/js/runtime-main.361c4d2b.js",
     "runtime-main.js.map": "/totalCloud/static/js/runtime-main.361c4d2b.js.map",
     "static/js/2.5952c4c4.chunk.js": "/totalCloud/static/js/2.5952c4c4.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.361c4d2b.js",
     "static/js/2.5952c4c4.chunk.js",
     "static/css/main.fd014215.chunk.css",
-    "static/js/main.6b78175d.chunk.js"
+    "static/js/main.e2a89812.chunk.js"
   ]
 }
