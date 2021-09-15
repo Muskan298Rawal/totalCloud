@@ -40,7 +40,7 @@ function HomePage(props) {
 
   return (
     <div className=" mt-2">
-      <h3 className="text-center">USERS</h3>
+      <h3 className="text-center">USERS LIST</h3>
       <div className="dropdown">
         <Button
           className="btn_sort"
